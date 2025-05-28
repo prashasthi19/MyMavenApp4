@@ -1,9 +1,9 @@
 package com.example;
 public class MainClass
 {
-	public static void main(String[] args)
+	public static void main( String[] args )
 	{
-		System.out.println("My 4th Maven Project.");
+		System.out.println( "My 4th Maven Project." );
 	}
 }
 
